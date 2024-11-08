@@ -4,6 +4,15 @@ import java.util.Arrays;
         1. Find and return the most common letter in a given string.
         2. Check if 2 strings are anagrams of each other (below - elbow, end - ned, apple - ppale)
         3. Compress a string using the following rule: aaabccc = a3bc3
+
+        ----
+        Self Imposed homework
+        1. Convert a number to binary
+        2. Convert Binary to a number
+        3. Convert a number to Hexidecimil
+        4. Convert Hexidecimal to number
+        5. Convert Hexidecimal to Binary
+        6. Convert Binary to Hex
  */
 
 
